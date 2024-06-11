@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "OXQmbcReRsZUO/rESGVuiUZWR+cAd/ZZd9u7cViK8/fKz0mVAYNLEjjmoFoN4aO/yAD9CflVXKG/yqqMMHEP3Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hurta\\Documents\\projects\\personal\\UIAutomation\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hurta\\.nuget\\packages\\flaui.core\\4.0.0\\flaui.core.4.0.0.nupkg.sha512",
+    "C:\\Users\\hurta\\.nuget\\packages\\flaui.uia3\\4.0.0\\flaui.uia3.4.0.0.nupkg.sha512",
+    "C:\\Users\\hurta\\.nuget\\packages\\interop.uiautomationclient\\10.19041.0\\interop.uiautomationclient.10.19041.0.nupkg.sha512",
+    "C:\\Users\\hurta\\.nuget\\packages\\system.management\\5.0.0\\system.management.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
